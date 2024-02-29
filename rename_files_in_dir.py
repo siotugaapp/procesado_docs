@@ -1,6 +1,6 @@
 import os
 
-dir_path = r'Q:\cmatv-dxotu-sxu--planeamento\IET_DOG_BOP_PLANEAMENTO\WEB\PROCESADO_SIOTUGA\28592 - PXOM ABEGONDO'
+dir_path = r'C:\tmp\my_dir_with_files_to_rename'
 
 def rename_files_in_dir(dir_path):
     import os
