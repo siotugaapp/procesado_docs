@@ -1,0 +1,388 @@
+{
+id: -1,
+error: "",
+fieldErrors: [ ],
+data: [ ],
+aaData: [
+{
+DT_RowId: "row_28602",
+id: "28602",
+codconc: "27028",
+instrumento: "ED DE AGREGACIÓN DAS PARCELAS 01 E 02 DO RUEIRO 1513 (ANTIGO HOSPITAL DE SAN MIGUEL) DO PEPRI",
+data_ad: "2022-11-24",
+expediente: "PTU-LU-23/043",
+estado: "Sen comenzar",
+incidencias: ""
+},
+{
+DT_RowId: "row_28603",
+id: "28603",
+codconc: "36008",
+instrumento: "MP/NPS RECALIFICACIÓN SOLO URBANO",
+data_ad: "2022-12-01",
+expediente: "PTU-PO-18/119",
+estado: "Sen comenzar",
+incidencias: ""
+},
+{
+DT_RowId: "row_28604",
+id: "28604",
+codconc: "36038",
+instrumento: "MP/PEPRICA CONXUNTO HISTÓRICO",
+data_ad: "2023-05-22",
+expediente: "PTU-PO-21/020",
+estado: "Sen comenzar",
+incidencias: ""
+},
+{
+DT_RowId: "row_28605",
+id: "28605",
+codconc: "15058",
+instrumento: "ED PARCELAS EX 3,1 E 3,2 IÑAS",
+data_ad: "2023-09-28",
+expediente: "PTU-AC-23/092",
+estado: "Sen comenzar",
+incidencias: ""
+},
+{
+DT_RowId: "row_28606",
+id: "28606",
+codconc: "36051",
+instrumento: "PERI PEI-9",
+data_ad: "2023-05-03",
+expediente: "PTU-PO-23/089",
+estado: "Sen comenzar",
+incidencias: ""
+},
+{
+DT_RowId: "row_28607",
+id: "28607",
+codconc: "36057",
+instrumento: "PE DA UE II-04 INDUSTRIAL SANTO ANDRE DE COMESAÑA",
+data_ad: "2023-07-31",
+expediente: "PTU-PO-20/051",
+estado: "Sen comenzar",
+incidencias: "faltan os ficheiros PDF que non están no cartafol nin no Rexpla"
+},
+{
+DT_RowId: "row_28608",
+id: "28608",
+codconc: "36055",
+instrumento: "MP/PXOM SU2A E SU2B",
+data_ad: "2023-04-27",
+expediente: "PTU-PO-16/099",
+estado: "Sen comenzar",
+incidencias: ""
+},
+{
+DT_RowId: "row_28609",
+id: "28609",
+codconc: "15004",
+instrumento: "CE/PXOM",
+data_ad: "2023-08-30",
+expediente: "PTU-AC-22/017",
+estado: "Sen comenzar",
+incidencias: ""
+},
+{
+DT_RowId: "row_28611",
+id: "28611",
+codconc: "15078",
+instrumento: "PEID PLATAFORMA LOXÍSTICA",
+data_ad: "2023-10-11",
+expediente: "PTU-AC-22/086",
+estado: "Sen comenzar",
+incidencias: ""
+},
+{
+DT_RowId: "row_28612",
+id: "28612",
+codconc: "36060",
+instrumento: "ED BOSQUE DESAMPARADOS",
+data_ad: "2022-12-29",
+expediente: "PTU-PO-23/007",
+estado: "Sen comenzar",
+incidencias: "Falta que colguen a documentación"
+},
+{
+DT_RowId: "row_28613",
+id: "28613",
+codconc: "15030",
+instrumento: "ED IES ELVIÑA",
+data_ad: "2023-10-05",
+expediente: "PTU-AC-23/094",
+estado: "Sen comenzar",
+incidencias: ""
+},
+{
+DT_RowId: "row_28614",
+id: "28614",
+codconc: "15030",
+instrumento: "MP/PXOM PL 030.2 JOAQUIN PLANELLS",
+data_ad: "2023-10-05",
+expediente: "PTU-AC-21/040",
+estado: "Sen comenzar",
+incidencias: ""
+},
+{
+DT_RowId: "row_28615",
+id: "28615",
+codconc: "15029",
+instrumento: "CU EQUIPAMENTO SANTA MARTA",
+data_ad: "2023-07-27",
+expediente: "PTU-AC-23/076",
+estado: "Sen comenzar",
+incidencias: ""
+},
+{
+DT_RowId: "row_28616",
+id: "28616",
+codconc: "15019",
+instrumento: "MP/PXOM Nº7",
+data_ad: "2023-07-20",
+expediente: "PTU-AC-20/078",
+estado: "Sen comenzar",
+incidencias: ""
+},
+{
+DT_RowId: "row_28617",
+id: "28617",
+codconc: "15004",
+instrumento: "CU EQUIPAMENTO PXOM CPI AS MIRANDAS",
+data_ad: "2023-07-31",
+expediente: "PTU-AC-23/073",
+estado: "Sen comenzar",
+incidencias: ""
+},
+{
+DT_RowId: "row_28618",
+id: "28618",
+codconc: "15019",
+instrumento: "ED PEDRA FURADA",
+data_ad: "2023-09-25",
+expediente: "PTU-AC-23/110",
+estado: "Sen comenzar",
+incidencias: "Só están os ficheiros editables, non os PDF. Solicitados"
+},
+{
+DT_RowId: "row_28619",
+id: "28619",
+codconc: "15030",
+instrumento: "ED SHOWA DENKO",
+data_ad: "2023-11-09",
+expediente: "PTU-AC-23/113",
+estado: "Sen comenzar",
+incidencias: ""
+},
+{
+DT_RowId: "row_28620",
+id: "28620",
+codconc: "15058",
+instrumento: "ED PP SECTOR SUD5 ICARIA IV",
+data_ad: "2023-10-26",
+expediente: "PTU-AC-23/113",
+estado: "Sen comenzar",
+incidencias: ""
+},
+{
+DT_RowId: "row_28621",
+id: "28621",
+codconc: "36027",
+instrumento: "PEID TANATORIO",
+data_ad: "2023-03-31",
+expediente: "PTU-PO-19/099",
+estado: "Sen comenzar",
+incidencias: ""
+},
+{
+DT_RowId: "row_28622",
+id: "28622",
+codconc: "15058",
+instrumento: "PP SUD- 21 PREDIO ALSINA",
+data_ad: "2023-10-26",
+expediente: "PTU-AC-18/048",
+estado: "Sen comenzar",
+incidencias: ""
+},
+{
+DT_RowId: "row_28623",
+id: "28623",
+codconc: "15017",
+instrumento: "MP/NSP SAU RD1 A BARCALA",
+data_ad: "2022-10-10",
+expediente: "PTU-AC-16/139",
+estado: "Sen comenzar",
+incidencias: ""
+},
+{
+DT_RowId: "row_28624",
+id: "28624",
+codconc: "15078",
+instrumento: "MP/PXOM SUD 9-10 VIGO -CHOUCIÑOS",
+data_ad: "2023-09-28",
+expediente: "PTU-AC-21/018",
+estado: "Sen comenzar",
+incidencias: ""
+},
+{
+DT_RowId: "row_28625",
+id: "28625",
+codconc: "15058",
+instrumento: "ED POLIGONO I LORBÉ",
+data_ad: "2023-11-30",
+expediente: "PTU-AC-24/001",
+estado: "Sen comenzar",
+incidencias: ""
+},
+{
+DT_RowId: "row_28626",
+id: "28626",
+codconc: "15045",
+instrumento: "PEID AERODROMO",
+data_ad: "2023-11-20",
+expediente: "PTU-AC-22/025",
+estado: "Sen comenzar",
+incidencias: ""
+},
+{
+DT_RowId: "row_28627",
+id: "28627",
+codconc: "15030",
+instrumento: "ED ESQUINA AVD. ALCALDE PEREZ",
+data_ad: "2023-10-05",
+expediente: "PTU-AC-24/004",
+estado: "Sen comenzar",
+incidencias: ""
+},
+{
+DT_RowId: "row_28628",
+id: "28628",
+codconc: "15030",
+instrumento: "PERI PARCELA 2 A MAESTRANZA",
+data_ad: "2023-12-14",
+expediente: "PTU-AC-24/004",
+estado: "Sen comenzar",
+incidencias: ""
+},
+{
+DT_RowId: "row_28629",
+id: "28629",
+codconc: "27040",
+instrumento: "MP/NSP",
+data_ad: "2023-12-28",
+expediente: "____",
+estado: "Sen comenzar",
+incidencias: ""
+},
+{
+DT_RowId: "row_28630",
+id: "28630",
+codconc: "27040",
+instrumento: "PIA FASE III",
+data_ad: "2023-12-28",
+expediente: "____",
+estado: "Sen comenzar",
+incidencias: ""
+},
+{
+DT_RowId: "row_28593",
+id: "28593",
+codconc: "15059",
+instrumento: "PLAN XERAL DE ORDENACIÓN MUNICIPAL DE ORDES",
+data_ad: "2023-12-13",
+expediente: "PTU-AC-12/006",
+estado: "En proceso",
+incidencias: ""
+},
+{
+DT_RowId: "row_28594",
+id: "28594",
+codconc: "15058",
+instrumento: "ED PARA O AXUSTE DE ALIÑACIÓNS NA RÚA PARAÍSO 18-22",
+data_ad: "2023-07-27",
+expediente: "PTU-AC-23/088",
+estado: "Rematado",
+incidencias: ""
+},
+{
+DT_RowId: "row_28595",
+id: "28595",
+codconc: "15058",
+instrumento: "MP02 PP SUD-11 NA NORMATIVA URBANÍSTICA",
+data_ad: "2023-07-27",
+expediente: "PTU-AC-23/093",
+estado: "Rematado",
+incidencias: ""
+},
+{
+DT_RowId: "row_28601",
+id: "28601",
+codconc: "27024",
+instrumento: "PLAN XERAL DE ORDENACIÓN MUNICIPAL DE O INCIO",
+data_ad: "2023-03-14",
+expediente: "PTU-LU-12/099",
+estado: "En proceso",
+incidencias: ""
+},
+{
+DT_RowId: "row_28596",
+id: "28596",
+codconc: "32054",
+instrumento: "CU DA PARCELA SITA NA ESTRADA DE VIGO, 1B (REFERENCIA CATASTRAL 2497004NG9826S0001DK), ANTIGAMENTE DESTINADA Á ESTACIÓN DE AUTOBUSES DE OURENSE (EXPEDIENTE PLANEAMENTO URBANÍSTICO 2021022105)",
+data_ad: null,
+expediente: "",
+estado: "Rematado",
+incidencias: "sen código expediente nin BOP"
+},
+{
+DT_RowId: "row_28597",
+id: "28597",
+codconc: "32061",
+instrumento: "DNR DA CORNA, NA PARROQUIA DA CORNA",
+data_ad: null,
+expediente: "",
+estado: "Rematado",
+incidencias: "sen código expediente nin BOP"
+},
+{
+DT_RowId: "row_28598",
+id: "28598",
+codconc: "32086",
+instrumento: "DNR DE BOUZA, NA PARROQUIA DE PEXEIROS",
+data_ad: null,
+expediente: "",
+estado: "Rematado",
+incidencias: "sen código expediente nin BOP; primeira aparición de Viana do Bolo neste rexistro pero hai 4 no SIOTUGA: ¿"etiqueta" é /001 ou /005?"
+},
+{
+DT_RowId: "row_28592",
+id: "28592",
+codconc: "15001",
+instrumento: "PLAN XERAL DE ORDENACIÓN MUNICIPAL DE ABEGONDO",
+data_ad: "2023-10-19",
+expediente: "PTU-AC-20/113",
+estado: "En proceso",
+incidencias: ""
+},
+{
+DT_RowId: "row_28599",
+id: "28599",
+codconc: "15078",
+instrumento: "PP DE ORDENACIÓN DO SUND-8 MONTE VIDÁN",
+data_ad: "2022-07-04",
+expediente: "PTU-AC-23/057",
+estado: "Rematado",
+incidencias: ""
+},
+{
+DT_RowId: "row_28600",
+id: "28600",
+codconc: "27028",
+instrumento: "PXOM (ÁMBITOS E DETERMINACIÓNS PENDENTES DE APROBACIÓN POLA ORDE DO 29.04.2011 DE APROBACIÓN DEFINITIVA DO CONCELLO DE LUGO",
+data_ad: "2023-04-27",
+expediente: "LU04025",
+estado: "En proceso",
+incidencias: ""
+}
+]
+}
