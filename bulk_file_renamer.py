@@ -18,5 +18,3 @@ def bulk_rename_files(excel_path, sheet_name, destination_directory):
         except Exception as e:
             print(f"Error processing file {original_path}: {e}")
 
-# Usage of the function
-bulk_rename_files("C:/Users/ue07506/Desktop/SIOTUGA LOCAL/2 -EN PROCESO/28593 -ORDES-PXOM/0_Indice Resumen/28593 -ORDES-PXOM.xlsx", 'Hoja1', "C:/tmp/resultados")
